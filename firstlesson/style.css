@@ -1,0 +1,22 @@
+/* .div {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	transition: width 2s;
+}
+
+div:hover {
+	width: 50px;
+} */
+body{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	height: 100vh;
+}
+
+.metamorphosis{
+	background: #F15A5A;
+	width: 100px;
+	height: 100px;
+}
